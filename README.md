@@ -22,6 +22,7 @@ catatan:
 Bebas memilih 2 (dua) algoritma klasifikasi untuk dilalakukan perbandingan.
 Anda wajib menggunakan Google Colab dan membuat sendiri repositori pada Github.
 
+  
 ### output:
 
   
