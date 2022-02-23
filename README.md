@@ -21,7 +21,8 @@ Format penamaan repositori pada Github adalah : <NIM>_<NamaSingkat>_DM_IF-ITK
 catatan:
 Bebas memilih 2 (dua) algoritma klasifikasi untuk dilalakukan perbandingan.
 Anda wajib menggunakan Google Colab dan membuat sendiri repositori pada Github.
-output:
+
+  ~~~ output:
 
   
 ![running-ss1](https://user-images.githubusercontent.com/73746365/155256059-d2f52b15-8728-4add-a209-f997648448f9.JPG)
